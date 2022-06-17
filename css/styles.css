@@ -1,0 +1,158 @@
+body {
+  background-color: white;
+  position: relative;
+}
+
+h1 {
+  color:  hsl(300, 43%, 22%);
+  font-family: 'League Spartan', sans-serif;
+}
+
+p {
+  color: hsl(303, 10%, 53%);
+  font-family: 'League Spartan', sans-serif;
+}
+
+img {
+  padding-left: 10px;
+}
+
+.top-container {
+  padding-bottom: 300px;
+  padding-top: 50px;
+}
+
+.heading {
+  display: inline-block;
+  width: 500px;
+  padding-left: 100px;
+  margin-bottom: 0;
+  font-size: 4rem;
+}
+
+.para {
+  width: 500px;
+  padding-left: 100px;
+  clear: right;
+  font-size: 1.25rem;
+}
+
+.reviews {
+  background-color: hsl(300, 24%, 96%);
+  padding: 3px 50px;
+  border-radius: 15px;
+  position: absolute;
+  top: 100px;
+  right: 300px;
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 700;
+}
+
+.report-guru {
+  background-color: hsl(300, 24%, 96%);
+  padding: 3px 50px;
+  border-radius: 15px;
+  position: absolute;
+  top: 175px;
+  right: 200px;
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 700;
+}
+
+.best-tech {
+  background-color: hsl(300, 24%, 96%);
+  padding: 3px 50px;
+  border-radius: 15px;
+  position: absolute;
+  top: 250px;
+  right: 100px;
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 700;
+}
+
+.cust-1 {
+  height: 200px;
+  width: 400px;
+  position: absolute;
+  font-family: 'League Spartan', sans-serif;
+  background-color:  hsl(300, 43%, 22%);
+  color: white;
+  bottom: 100px;
+  left: 100px;
+  border-radius: 15px;
+}
+
+.cust-2 {
+  height: 200px;
+  width: 400px;
+  position: absolute;
+  font-family: 'League Spartan', sans-serif;
+  background-color:  hsl(300, 43%, 22%);
+  color: white;
+  bottom: 75px;
+  left: 560px;
+  border-radius: 15px;
+}
+
+.cust-3 {
+  height: 200px;
+  width: 400px;
+  position: absolute;
+  font-family: 'League Spartan', sans-serif;
+  background-color:  hsl(300, 43%, 22%);
+  color: white;
+  bottom: 50px;
+  right: 100px;
+  border-radius: 15px;
+}
+
+.one {
+  position: absolute;
+  left: 110px;
+  top: 10px;
+}
+
+.two {
+  position: absolute;
+  left: 110px;
+  top: 40px;
+}
+
+.three {
+  position: absolute;
+  left: 110px;
+  top: 10px;
+}
+
+.four {
+  position: absolute;
+  left: 110px;
+  top: 40px;
+}
+
+.five {
+  position: absolute;
+  left: 110px;
+  top: 10px;
+}
+
+.six {
+  position: absolute;
+  left: 110px;
+  top: 40px;
+}
+
+.space1 {
+  padding: 0 25px;
+  line-height: 1.5;
+}
+
+.space2 {
+  padding: 0 25px;
+  line-height: 1.5;
+}
+
+.space3 {
+  padding: 0 25px;
+  line-height: 1.5;
+}
